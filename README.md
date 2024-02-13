@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boom Kanteng</h1>
-<h3 align="center">A colleague student who tries to find out what he cans do.</h3>
+<h3 align="center">A college student who tries to find out what he can do.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZQBH5pvoyiZSE/giphy-downsized-large.gif">
 
 - 🎓 I’m currently studying **Computer Engineering at King Mongkut's University of Technology Thonburi**
