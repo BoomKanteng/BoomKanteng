@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently studying **Computer Engineering at King Mongkut's University of Technology Thonburi**
 
-- 🌱 I’m currently learning on **Everything I interested.**
+- 🌱 I’m currently learning on **Data Engineering**
 
 
 <p align="left">
